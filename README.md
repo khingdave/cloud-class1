@@ -1,4 +1,4 @@
-This is an assignment from my first cloud class at CoLab Innovation Hub. Taught by the DevOps wife herself!
+This is an assignment from my first cloud class at CoLab Innovation Hub. Taught by the DevOps wife herself! <br>
 The first class taught us basic file management in Ubuntu Linux Distro. 
 I learned how to spin up a Linux virtual machine on my Windows PC using 'MULTIPASS'
 I learned how to create new directories using the MKDIR command
